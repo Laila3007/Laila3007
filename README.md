@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Olá 👋! Meu nome é Laila de Sousa Alves, sou estudante de Análise e Desenvolvimento de Sistemas no IFCE Campus Boa Viagem .</h2>
+<h2 data-importer="text" align="left">Olá 👋! Meu nome é Laila de Sousa Alves, sou estudante de Análise e Desenvolvimento de Sistemas no IFCE Campus Boa Viagem.</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 ###
 
 <div data-importer="socials" align="left">
-  <a href="mailto:lailaalves748@gmail.com" target="_blank">
+  <a href="mailto:lailaalves748@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://br.linkedin.com/in/laila-sousa-2647a5292" target="_blank">
